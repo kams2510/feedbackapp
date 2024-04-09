@@ -1,0 +1,15 @@
+/* Write your CSS code here. */
+.top-card-bg {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  background-color: white;
+  margin: 20px;
+  border-radius: 10px;
+  padding: 6px;
+}
